@@ -2,7 +2,7 @@ module:    anaphora
 synopsis:  Statements that convert their result to 'it', an unhygenic variable
 see:       On Lisp (ch 14), by Paul Graham, for original Lisp implementation
 author:    Douglas M. Auclair
-copyright: (c) 2002, LGPL
+copyright: See LICENSE in this distribution for details.
 
 define macro aif
   { aif(?:expression) ?b1:body else ?b2:body end }
