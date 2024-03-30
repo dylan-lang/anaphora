@@ -1,0 +1,13 @@
+{
+    "category" : "utilities",
+    "dependencies": [],
+    "dev-dependencies": [ "testworks" ],
+    "description": "Anaphoric constructs",
+    "name": "anaphora",
+    "version": "0.1.1",
+    "url": "https://github.com/dylan-lang/anaphora",
+    "keywords": [ "macro", "lisp", "anaphora" ],
+    "contact": "dylan-lang@googlegroups.com",
+    "license": "LGPL",
+    "license-url": "https://www.gnu.org/licenses/lgpl-3.0.html"
+}
