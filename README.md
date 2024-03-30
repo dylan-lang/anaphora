@@ -1,4 +1,7 @@
 # Anaphora
+
+[![build-and-test](https://github.com/dylan-lang/anaphora/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/dylan-lang/anaphora/actions/workflows/build-and-test.yml)
+
 Anaphoric constructs for Dylan
 
 ## `aif`
