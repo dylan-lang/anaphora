@@ -10,8 +10,6 @@ end library anaphora-test;
 
 define module anaphora-test
   use common-dylan;
-  use common-extensions,
-    import: { integer-to-string };
   use testworks;
   use anaphora;
 
