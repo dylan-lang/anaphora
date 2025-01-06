@@ -7,5 +7,5 @@ end library;
 
 define module anaphora
   use dylan;
-  export \aif;
+  export aif;
 end module;
