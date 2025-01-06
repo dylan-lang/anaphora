@@ -1,14 +1,13 @@
-Welcome to Anaphora's documentation!
-====================================
+Anaphora
+========
 
 .. toctree::
    :hidden:
    :maxdepth: 2
-	      
+
    reference
 
-This library provides anaphoric constructs macros for Dylan, but
-what's an anaphoric macro?
+This library provides anaphoric macros for Dylan, but what's an anaphoric macro?
 
 From `Wikipedia
 <https://en.wikipedia.org/w/index.php?title=Anaphoric_macro&oldid=1066643579>`_:
