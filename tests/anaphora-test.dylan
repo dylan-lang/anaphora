@@ -46,15 +46,4 @@ define test test-aif-on-failure-if-else ()
   expect-equal("Failed!", result)
 end test;
 
-define suite aif-test-suite ()
-  test test-aif-on-success-if;
-  test test-aif-on-success-if-else;
-  test test-aif-on-failure-if;
-  test test-aif-on-failure-if-else;
-end suite;
-
-define suite anaphora-test-suite ()
-  suite aif-test-suite;
-end suite;
-
 run-test-application();
