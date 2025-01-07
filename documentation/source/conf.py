@@ -9,7 +9,7 @@
 project = 'Anaphora'
 copyright = '2024, Dylan Hackers'
 author = 'Dylan Hackers'
-release = '0.1.1'
+release = '0.2.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
