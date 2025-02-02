@@ -28,8 +28,7 @@ This library currently implements:
 * :macro:`aif`
 
 Indices and tables
-==================
+------------------
 
 * :ref:`genindex`
-* :ref:`modindex`
 * :ref:`search`
