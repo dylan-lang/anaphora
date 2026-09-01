@@ -1,5 +1,6 @@
+********
 Anaphora
-========
+********
 
 .. toctree::
    :hidden:
@@ -18,7 +19,7 @@ and their name is a reference to linguistic anaphora — the use of
 words as a substitute for preceding words.
 
 Anaphoric Macros
-----------------
+================
 
 This library currently implements one macro, :macro:`aif`:
 
@@ -65,9 +66,3 @@ This library currently implements one macro, :macro:`aif`:
         else
           bar()
         end;
-
-Indices and tables
-------------------
-
-* :ref:`genindex`
-* :ref:`search`
