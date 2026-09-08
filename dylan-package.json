@@ -7,7 +7,7 @@
     ],
     "description": "Anaphoric constructs",
     "name": "anaphora",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "url": "https://github.com/dylan-lang/anaphora",
     "keywords": [ "macro", "lisp", "anaphora" ],
     "contact": "dylan-lang@googlegroups.com",
